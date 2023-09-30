@@ -1,3 +1,42 @@
 Flex : value_angka; ->value angka harus angka dan gunanya untuk menentukan besarnya suatu bagian div
 
 order : poisi objek yang mau di pindahkan; -> gunakan angka untuk menentukan perpindahahn suatu objek
+
+Justify Content
+
+Flex Wrap : Wrap -> Untuk turun kebawah objeknya
+
+Untuk Centering Text/Object harus menggunakan display flex dan juga elemen yang di centering harus di bungkus di dalam
+
+misal seperti 
+
+HTML
+<div class="container-5">
+        <div class="kotak"><span>Hello World</span></div>
+    </div>
+
+CSS
+
+.container-5 {
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    border: 5px solid black;
+    display: flex;-->1. di buat display flex
+}
+
+.kotak {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    margin: auto;---> 1. elemen yg di bungkus oleh container -5 menggunakan margin baru elemen kotak dapat di centering
+    display: flex;--> 2. elemen pembungkusnya di kasih display flex
+}s
+
+.kotak span {
+    margin: auto;--> 2. elemen yg di bungkus baru di kasih margin autovbaru dapat di centering
+}
+
