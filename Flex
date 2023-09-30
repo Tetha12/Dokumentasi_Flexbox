@@ -1,1 +1,3 @@
 Flex : value_angka; ->value angka harus angka dan gunanya untuk menentukan besarnya suatu bagian div
+
+order : poisi objek yang mau di pindahkan; -> gunakan angka untuk menentukan perpindahahn suatu objek
