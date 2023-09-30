@@ -1,0 +1,1 @@
+Flex : value_angka; ->value angka harus angka dan gunanya untuk menentukan besarnya suatu bagian div
