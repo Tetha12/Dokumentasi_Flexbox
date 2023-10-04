@@ -17,3 +17,6 @@ I. Container Grid
 
 Explicit -> Cell yang di tentukan ukurannya
 Implicit -> cell yg kurannya otomatis di tentukan/tidak di tentukan
+
+1. Grid-auto-column/rows -> mengatur cell implicit
+2. Grid-auto-flow ->
