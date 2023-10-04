@@ -3,3 +3,8 @@ Grid Item -> Item yang di bungkus satu level oleh container dgn display grid
 Grid Line
   -Column (Horizontal)
   -Baris (Vertical)
+
+Grid Cell -> Sebuah Cell kotak di css grid yg konsepnya mirip sama cell di Ms. Excel
+Grid Area -> Kumpulan Grid Cell yg membentuk Kotak/ mirip konsep merge cell di Ms. Excel
+Grid Track ->
+Grid Gap -> Jarak antara cell
