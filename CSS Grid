@@ -2,9 +2,18 @@ display : Grid;
 Grid Item -> Item yang di bungkus satu level oleh container dgn display grid
 Grid Line
   -Column (Horizontal)
-  -Baris (Vertical)
+  -Baris/Row (Vertical)
 
 Grid Cell -> Sebuah Cell kotak di css grid yg konsepnya mirip sama cell di Ms. Excel
 Grid Area -> Kumpulan Grid Cell yg membentuk Kotak/ mirip konsep merge cell di Ms. Excel
 Grid Track -> Ukuran Jarak 2 grid line baik secara horizontal maupun vertical
 Grid Gap -> Jarak antara cell
+
+
+I. Container Grid
+
+1. grid-template-column : Track-Size ..... | <line-name> <Track-size>
+2. grid-template-rows : Track-Size ..... | <line-name> <Track-size>
+
+Explicit -> Cell yang di tentukan ukurannya
+Implicit -> cell yg kurannya otomatis di tentukan/tidak di tentukan
