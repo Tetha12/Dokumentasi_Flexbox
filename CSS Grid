@@ -6,5 +6,5 @@ Grid Line
 
 Grid Cell -> Sebuah Cell kotak di css grid yg konsepnya mirip sama cell di Ms. Excel
 Grid Area -> Kumpulan Grid Cell yg membentuk Kotak/ mirip konsep merge cell di Ms. Excel
-Grid Track ->
+Grid Track -> Ukuran Jarak 2 grid line baik secara horizontal maupun vertical
 Grid Gap -> Jarak antara cell
