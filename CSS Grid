@@ -20,3 +20,9 @@ Implicit -> cell yg kurannya otomatis di tentukan/tidak di tentukan
 
 1. Grid-auto-column/rows -> mengatur cell implicit
 2. Grid-auto-flow ->
+
+Repeat--> mengulang valui berkali lai agar tidak
+ contoh : grid-template-column: repeat(4,3fr)--> artinya buat sebuah grid dgn ukuran 3fr sebanyak 4 kali secara horizontal
+
+1. max-content -> Di Gunakan untuk membuat grid/cell mengikuti ukuran isi atau content nya
+2. Min Content -> Di gunakan untuk membuat grid/cell mengikuti ukuran isi atau content nya namun secara vertical
