@@ -26,3 +26,4 @@ Repeat--> mengulang valui berkali lai agar tidak
 
 1. max-content -> Di Gunakan untuk membuat grid/cell mengikuti ukuran isi atau content nya
 2. Min Content -> Di gunakan untuk membuat grid/cell mengikuti ukuran isi atau content nya namun secara vertical
+3. Auto-fit & Auto-Fill -> Cocok untuk Responsive
