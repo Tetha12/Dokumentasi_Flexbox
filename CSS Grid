@@ -27,3 +27,12 @@ Repeat--> mengulang valui berkali lai agar tidak
 1. max-content -> Di Gunakan untuk membuat grid/cell mengikuti ukuran isi atau content nya
 2. Min Content -> Di gunakan untuk membuat grid/cell mengikuti ukuran isi atau content nya namun secara vertical
 3. Auto-fit & Auto-Fill -> Cocok untuk Responsive
+4. Gap-gap -> Untuk membuat jarak di antara grid
+
+Justify-items -> mensejajarkan items secara horizontal
+align-items -> mensejajarkan items secara vertical
+place-tems: <align-items> <justify-items>
+place-content -> <justify-content> <align-items>
+
+
+II. Items
