@@ -37,4 +37,4 @@ place-content -> <justify-content> <align-items>
 
 II. Items
 1.grid -  row/column - start/end : <nomor> | <nama> | span <nomor> | span <nama>
-2. Grid-column/row : <Start-line>/<End-Line> | <Start-line>/ span <End-Line>
+2. Grid-column/row : <Start-line>/<End-Line> | <Start-line>/ span <value>
